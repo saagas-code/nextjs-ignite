@@ -16,7 +16,7 @@ Projeto realizado durante o curso da RocketSeat, onde foi projetado uma aplicac�
 
 <h1 align="center">Conhecimentos Adquiridos</h1>
 
-- Utilização do ![Chakra](https://chakra-ui.com/) para responsividade
+- Utilização do [Chakra](https://chakra-ui.com/) para responsividade
 - ContextAPI
 - Tailwind
 - Operações SSR no Next
@@ -32,6 +32,6 @@ Projeto realizado durante o curso da RocketSeat, onde foi projetado uma aplicac�
   yarn dev
 ```
 
-Caso queira testar a aplicacão é necessário de uma API conectada a aplicacão para estar podendo acessar as rotas privadas, caso queira clique ![aqui](https://github.com/saagas-code/sharenergy-react-node) para ser redirecionado
+Caso queira testar a aplicacão é necessário de uma API conectada a aplicacão para estar podendo acessar as rotas privadas, caso queira clique [aqui](https://github.com/saagas-code/sharenergy-react-node) para ser redirecionado
 
 
